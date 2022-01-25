@@ -1,0 +1,15 @@
+{
+   "semi": true,
+   "singleQuote": true,
+   "useTabs": false,
+   "tabWidth": 3,
+   "overrides": [
+      {
+         "files": ["*.scss", "*.vue"],
+         "options": {
+            "tabWidth": 2,
+            "printWidth": 110
+         }
+      }
+   ]
+}
