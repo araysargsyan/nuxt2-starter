@@ -25,20 +25,12 @@
     </nav>
 </template>
 
-<script>
-   export default {
-      name: 'NavBar',
-   };
-</script>
+<!--<script>-->
+<!--   export default {-->
+<!--      name: 'NavBar',-->
+<!--   };-->
+<!--</script>-->
 
 <style lang="scss" scoped>
 @import 'assets/styles/components/nav-bar';
-
-.nav-bar {
-  background-color: coral;
-  padding: 1rem 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
 </style>
